@@ -1,0 +1,17 @@
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\bin\Debug\net7.0-windows\LicaoEstacionamento.exe
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\bin\Debug\net7.0-windows\LicaoEstacionamento.deps.json
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\bin\Debug\net7.0-windows\LicaoEstacionamento.runtimeconfig.json
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\bin\Debug\net7.0-windows\LicaoEstacionamento.dll
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\bin\Debug\net7.0-windows\LicaoEstacionamento.pdb
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\obj\Debug\net7.0-windows\LicaoEstacionamento.csproj.AssemblyReference.cache
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\obj\Debug\net7.0-windows\LicaoEstacionamento.Form1.resources
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\obj\Debug\net7.0-windows\LicaoEstacionamento.csproj.GenerateResource.cache
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\obj\Debug\net7.0-windows\LicaoEstacionamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\obj\Debug\net7.0-windows\LicaoEstacionamento.AssemblyInfoInputs.cache
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\obj\Debug\net7.0-windows\LicaoEstacionamento.AssemblyInfo.cs
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\obj\Debug\net7.0-windows\LicaoEstacionamento.csproj.CoreCompileInputs.cache
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\obj\Debug\net7.0-windows\LicaoEstacionamento.dll
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\obj\Debug\net7.0-windows\refint\LicaoEstacionamento.dll
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\obj\Debug\net7.0-windows\LicaoEstacionamento.pdb
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\obj\Debug\net7.0-windows\LicaoEstacionamento.genruntimeconfig.cache
+C:\Users\Public\source\repos\Luis Felipe\LicaoEstacionamento\LicaoEstacionamento\obj\Debug\net7.0-windows\ref\LicaoEstacionamento.dll
